@@ -1,7 +1,6 @@
 # Amigo Secreto
 
-![Imagem representativa de amigo secreto](challenge-amigo-secreto_pt-main
-/assets/amigo-secreto.png)
+![Imagem representativa de amigo secreto](challenge-amigo-secreto_pt-main/assets/amigo-secreto.png)
 
 ## Descrição
 
