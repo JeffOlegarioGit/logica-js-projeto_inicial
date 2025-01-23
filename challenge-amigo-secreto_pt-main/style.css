@@ -160,3 +160,25 @@ ul {
 .button-draw:hover {
     background-color: var(--color-button-hover);
 }
+
+/* Estilos para a lista horizontal de amigos */
+.name-list {
+    display: flex; /* Alinha os itens horizontalmente */
+    flex-wrap: wrap; /* Permite que os itens quebrem para a próxima linha */
+    justify-content: center;
+    gap: 10px; /* Espaçamento entre os itens */
+}
+
+.name-list li {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    min-width: 40px; /* Largura mínima para o círculo */
+    min-height: 40px; /* Altura mínima para o círculo */
+    padding: 10px;
+    border-radius: 50%; /* Faz o elemento ficar circular */
+    color: var(--color-white);
+    font-weight: bold;
+    text-align: center;
+    /* backgroundColor:  */
+}
