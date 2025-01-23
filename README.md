@@ -1,6 +1,6 @@
 # Amigo Secreto
 
-[![Imagem representativa de amigo secreto](assets/amigo-secreto.png)](https://github.com/JeffOlegarioGit/logica-js-projeto_inicial/blob/main/challenge-amigo-secreto_pt-main/assets/amigo-secreto.png)
+![Imagem representativa de amigo secreto](assets/amigo-secreto.png)
 
 ## Descrição
 
